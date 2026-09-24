@@ -13,7 +13,8 @@
         "outDir": "./build",
 
         "paths": {
-            "#settings/*": ["./settings/*"]
+            "#settings/*": ["./settings/*"],
+            "#functions/*": ["./functions/*"]
         }
     },
     "include": ["src"],
